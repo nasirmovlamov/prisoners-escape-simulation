@@ -176,7 +176,4 @@ const strategy2 = () => {
     return
 }
 
-
-
-
 strategy2()
